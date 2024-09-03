@@ -1,9 +1,8 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
-description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+title: tazmosis.tk
+subtitle: just a cunt and some code.
+description: >- # ignore
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://tazmosis.tk" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -16,8 +15,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
